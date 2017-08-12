@@ -1,0 +1,4 @@
+main: com.zinno.antispam.AntiSpam
+version: 1.0.0
+name: AntiSpam
+author: Zinno
